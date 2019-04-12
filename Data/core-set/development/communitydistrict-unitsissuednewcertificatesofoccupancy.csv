@@ -1,0 +1,60 @@
+short_name,long_name,Community District,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+units_cert,Units issued new certificates of occupancy,QN 03 - Jackson Heights,72,90,190,200,185,321,336,326,420,183,204,194,165,185,76,52,84,66
+units_cert,Units issued new certificates of occupancy,MN 01 - Financial District,580,324,618,336,817,981,859,694,1051,751,124,1282,232,66,-39,48,912,76
+units_cert,Units issued new certificates of occupancy,MN 02 - Greenwich Village/Soho,19,63,257,16,259,143,193,237,117,180,238,63,2,53,11,54,417,257
+units_cert,Units issued new certificates of occupancy,MN 03 - Lower East Side/Chinatown,667,186,885,213,216,516,640,704,98,94,462,77,109,66,387,71,255,655
+units_cert,Units issued new certificates of occupancy,MN 04 - Clinton/Chelsea,1021,1668,1918,1610,606,738,1669,1187,812,2423,2368,1312,909,1733,1270,960,3030,1950
+units_cert,Units issued new certificates of occupancy,BX 11 - Morris Park/Bronxdale,175,100,80,47,260,54,131,201,146,215,72,113,32,35,22,26,16,204
+units_cert,Units issued new certificates of occupancy,BX 12 - Williamsbridge/Baychester,157,220,151,299,246,332,491,526,328,403,280,349,196,254,208,265,356,78
+units_cert,Units issued new certificates of occupancy,BK 01 - Greenpoint/Williamsburg,114,355,449,755,780,710,942,844,1578,1304,2515,1251,993,1622,1146,1369,1596,2179
+units_cert,Units issued new certificates of occupancy,MN 12 - Washington Heights/Inwood,0,0,117,0,6,0,0,108,25,61,48,138,1,15,77,52,62,35
+units_cert,Units issued new certificates of occupancy,BX 01 - Mott Haven/Melrose,124,371,308,202,297,395,530,489,254,217,371,827,476,19,289,253,278,298
+units_cert,Units issued new certificates of occupancy,BX 02 - Hunts Point/Longwood,68,0,112,54,109,169,549,215,458,282,277,379,15,122,12,0,141,69
+units_cert,Units issued new certificates of occupancy,BX 03 - Morrisania/Crotona,90,391,129,142,330,556,637,556,1013,230,1185,739,132,403,271,200,492,613
+units_cert,Units issued new certificates of occupancy,BX 04 - Highbridge/Concourse,331,0,37,244,586,436,293,808,359,59,427,45,137,59,303,85,45,356
+units_cert,Units issued new certificates of occupancy,BX 05 - Fordham/University Heights,54,0,136,112,130,85,264,286,96,425,224,203,147,0,312,205,19,220
+units_cert,Units issued new certificates of occupancy,BX 06 - Belmont/East Tremont,208,109,109,52,407,297,486,441,701,276,346,270,114,23,104,413,266,324
+units_cert,Units issued new certificates of occupancy,BX 07 - Kingsbridge Heights/Bedford,0,2,3,0,50,85,170,182,98,148,435,53,172,123,82,210,157,248
+units_cert,Units issued new certificates of occupancy,BX 08 - Riverdale/Fieldston,73,67,6,27,155,200,95,95,257,136,29,28,295,76,6,68,216,140
+units_cert,Units issued new certificates of occupancy,BX 09 - Parkchester/Soundview,27,129,281,130,308,84,262,328,250,329,214,137,48,23,32,317,253,78
+units_cert,Units issued new certificates of occupancy,BX 10 - Throgs Neck/Co-op City,88,188,196,129,270,295,318,290,182,183,128,144,24,108,28,251,61,44
+units_cert,Units issued new certificates of occupancy,BK 02 - Fort Greene/Brooklyn Heights,86,396,14,326,163,319,488,1174,594,2126,1096,618,439,291,1368,1808,2119,2782
+units_cert,Units issued new certificates of occupancy,BK 03 - Bedford Stuyvesant,94,237,71,565,664,607,816,875,595,597,344,541,446,387,278,521,918,793
+units_cert,Units issued new certificates of occupancy,BK 04 - Bushwick,4,143,203,381,382,602,568,482,473,331,483,272,157,261,199,305,376,388
+units_cert,Units issued new certificates of occupancy,BK 05 - East New York/Starrett City,485,341,445,449,415,483,679,742,534,385,365,405,248,228,41,471,416,560
+units_cert,Units issued new certificates of occupancy,BK 06 - Park Slope/Carroll Gardens,34,43,174,145,376,196,180,67,490,330,459,332,71,231,120,92,951,901
+units_cert,Units issued new certificates of occupancy,BK 07 - Sunset Park,55,93,7,147,90,115,130,263,508,151,240,299,60,77,257,122,22,84
+units_cert,Units issued new certificates of occupancy,MN 05 - Midtown,594,510,444,344,659,364,655,1982,673,144,767,105,11,427,554,922,637,455
+units_cert,Units issued new certificates of occupancy,MN 06 - Stuyvesant Town/Turtle Bay,399,1122,191,218,650,357,180,584,538,142,233,149,1,28,267,229,937,762
+units_cert,Units issued new certificates of occupancy,MN 07 - Upper West Side,921,918,445,1217,692,399,566,1060,271,1104,1195,329,-9,101,438,425,755,699
+units_cert,Units issued new certificates of occupancy,MN 08 - Upper East Side,554,624,434,398,583,400,948,377,748,609,175,-5,-2,60,229,342,393,451
+units_cert,Units issued new certificates of occupancy,MN 09 - Morningside Heights/Hamilton,0,0,163,13,77,94,322,99,298,44,161,86,12,12,144,0,473,71
+units_cert,Units issued new certificates of occupancy,BK 08 - Crown Heights/Prospect Heights,17,83,79,299,381,150,310,223,393,358,181,163,206,82,413,191,651,720
+units_cert,Units issued new certificates of occupancy,BK 09 - South Crown Heights/Lefferts Gardens,40,14,41,19,54,107,263,72,103,183,39,32,224,215,45,89,824,430
+units_cert,Units issued new certificates of occupancy,BK 10 - Bay Ridge/Dyker Heights,90,102,141,89,114,132,99,93,64,36,23,22,38,18,17,55,25,27
+units_cert,Units issued new certificates of occupancy,MN 10 - Central Harlem,87,385,396,188,448,791,232,433,714,560,582,530,25,173,359,132,250,115
+units_cert,Units issued new certificates of occupancy,MN 11 - East Harlem,210,59,998,165,1254,395,764,119,224,789,899,661,575,269,528,136,105,318
+units_cert,Units issued new certificates of occupancy,QN 04 - Elmhurst/Corona,138,114,201,316,219,335,416,335,335,340,276,229,235,72,127,104,166,122
+units_cert,Units issued new certificates of occupancy,QN 05 - Ridgewood/Maspeth,140,91,76,109,110,146,268,217,236,164,185,48,21,39,17,88,61,169
+units_cert,Units issued new certificates of occupancy,QN 06 - Rego Park/Forest Hills,171,12,102,25,50,117,72,11,127,187,92,89,80,49,69,437,30,93
+units_cert,Units issued new certificates of occupancy,QN 07 - Flushing/Whitestone,596,293,407,451,621,520,727,674,713,1452,475,448,349,334,778,229,224,197
+units_cert,Units issued new certificates of occupancy,QN 08 - Hillcrest/Fresh Meadows,94,51,38,202,113,664,161,232,376,394,175,336,84,82,21,71,72,72
+units_cert,Units issued new certificates of occupancy,QN 09 - Kew Gardens/Woodhaven,41,47,54,80,106,198,382,201,269,75,51,146,56,220,16,19,191,4
+units_cert,Units issued new certificates of occupancy,QN 10 - South Ozone Park/Howard Beach,40,40,103,55,146,161,156,132,129,46,51,63,15,35,30,41,42,15
+units_cert,Units issued new certificates of occupancy,QN 11 - Bayside/Little Neck,49,69,59,58,112,137,207,207,162,86,111,109,60,85,89,45,56,53
+units_cert,Units issued new certificates of occupancy,QN 12 - Jamaica/Hollis,250,166,240,315,418,819,689,663,653,437,684,150,147,95,241,129,142,75
+units_cert,Units issued new certificates of occupancy,QN 13 - Queens Village,64,125,304,152,92,191,188,185,238,155,90,49,58,46,38,28,19,34
+units_cert,Units issued new certificates of occupancy,QN 14 - Rockaway/Broad Channel,266,231,276,402,444,567,990,837,686,373,231,221,156,176,201,245,183,251
+units_cert,Units issued new certificates of occupancy,SI 01 - St. George/Stapleton,839,669,532,936,860,776,659,403,284,387,372,231,202,116,101,158,808,211
+units_cert,Units issued new certificates of occupancy,SI 02 - South Beach/Willowbrook,700,811,333,750,722,426,458,383,250,207,145,121,158,120,170,200,200,206
+units_cert,Units issued new certificates of occupancy,SI 03 - Tottenville/Great Kills,1825,1314,981,1735,674,717,739,648,479,280,299,271,296,339,248,189,247,254
+units_cert,Units issued new certificates of occupancy,BK 11 - Bensonhurst,86,81,132,143,225,147,256,282,348,203,218,82,51,80,43,55,78,63
+units_cert,Units issued new certificates of occupancy,BK 12 - Borough Park,47,120,73,309,73,156,227,166,204,266,274,221,92,97,125,169,139,189
+units_cert,Units issued new certificates of occupancy,BK 13 - Coney Island,39,139,141,386,213,262,161,236,150,59,172,73,120,349,178,75,108,48
+units_cert,Units issued new certificates of occupancy,BK 14 - Flatbush/Midwood,24,9,44,32,67,25,74,64,181,75,295,229,7,50,18,50,103,640
+units_cert,Units issued new certificates of occupancy,BK 15 - Sheepshead Bay,88,89,114,71,146,243,209,321,303,231,120,118,84,121,51,119,117,489
+units_cert,Units issued new certificates of occupancy,BK 16 - Brownsville,92,13,49,340,165,399,313,355,268,665,310,106,59,70,114,44,277,542
+units_cert,Units issued new certificates of occupancy,BK 17 - East Flatbush,82,51,17,18,31,40,176,332,212,130,65,21,24,18,53,14,0,213
+units_cert,Units issued new certificates of occupancy,BK 18 - Flatlands/Canarsie,134,156,190,163,259,218,238,340,170,82,55,48,36,6,36,10,38,6
+units_cert,Units issued new certificates of occupancy,QN 01 - Astoria,193,162,260,116,78,431,397,447,516,624,749,510,349,475,575,658,869,1015
+units_cert,Units issued new certificates of occupancy,QN 02 - Woodside/Sunnyside,66,103,70,481,85,85,754,1002,604,606,311,216,806,2068,1168,981,1171,2810

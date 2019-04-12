@@ -1,0 +1,60 @@
+short_name,long_name,Community District,2017
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 01 - Financial District,1
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 02 - Greenwich Village/Soho,1
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 03 - Lower East Side/Chinatown,0.85508916048888
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 04 - Clinton/Chelsea,0.943890391626485
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 05 - Midtown,1
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 06 - Stuyvesant Town/Turtle Bay,0.949928397103612
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 07 - Upper West Side,0.990849383224662
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 08 - Upper East Side,0.964513314998435
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 09 - Morningside Heights/Hamilton,1
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 10 - Central Harlem,1
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 11 - East Harlem,0.975454448436555
+prox_subway_pct,Residential units within 1/2 mile of a subway station,MN 12 - Washington Heights/Inwood,1
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 01 - Mott Haven/Melrose,0.999972634977971
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 02 - Hunts Point/Longwood,0.97260346006205
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 03 - Morrisania/Crotona,0.630286079104977
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 04 - Highbridge/Concourse,0.962980191495135
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 05 - Fordham/University Heights,0.982789140683878
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 06 - Belmont/East Tremont,0.52268276238482
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 07 - Kingsbridge Heights/Bedford,0.995222489832985
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 08 - Riverdale/Fieldston,0.631724045185584
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 09 - Parkchester/Soundview,0.701497037386608
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 10 - Throgs Neck/Co-op City,0.272116864171379
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 11 - Morris Park/Bronxdale,0.858007148716747
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BX 12 - Williamsbridge/Baychester,0.747298754959139
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 01 - Greenpoint/Williamsburg,0.922287834511525
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 02 - Fort Greene/Brooklyn Heights,0.94355493133583
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 03 - Bedford Stuyvesant,0.876713340423018
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 04 - Bushwick,0.979316726690676
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 05 - East New York/Starrett City,0.712324674507831
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 06 - Park Slope/Carroll Gardens,0.910339346443886
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 07 - Sunset Park,0.943932993089302
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 08 - Crown Heights/Prospect Heights,0.982119996586157
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 09 - South Crown Heights/Lefferts Gardens,0.904834030755012
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 10 - Bay Ridge/Dyker Heights,0.743662394685981
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 11 - Bensonhurst,0.865140025981088
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 12 - Borough Park,0.914528778412867
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 13 - Coney Island,0.729082973225337
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 14 - Flatbush/Midwood,0.946582927030824
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 15 - Sheepshead Bay,0.58082788671024
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 16 - Brownsville,0.894148605059136
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 17 - East Flatbush,0.580608418322644
+prox_subway_pct,Residential units within 1/2 mile of a subway station,BK 18 - Flatlands/Canarsie,0.126636285784194
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 01 - Astoria,0.729352586104865
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 02 - Woodside/Sunnyside,0.892801462286974
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 03 - Jackson Heights,0.595341072919038
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 04 - Elmhurst/Corona,0.722233834343588
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 05 - Ridgewood/Maspeth,0.396616740621829
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 06 - Rego Park/Forest Hills,0.80083450235603
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 07 - Flushing/Whitestone,0.321029450782701
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 08 - Hillcrest/Fresh Meadows,0.28065039503386
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 09 - Kew Gardens/Woodhaven,0.908454085195531
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 10 - South Ozone Park/Howard Beach,0.393896054143788
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 11 - Bayside/Little Neck,0.205450733752621
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 12 - Jamaica/Hollis,0.407448986330318
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 13 - Queens Village,0.0911827603224215
+prox_subway_pct,Residential units within 1/2 mile of a subway station,QN 14 - Rockaway/Broad Channel,0.677553315741662
+prox_subway_pct,Residential units within 1/2 mile of a subway station,SI 01 - St. George/Stapleton,0.126802977422244
+prox_subway_pct,Residential units within 1/2 mile of a subway station,SI 02 - South Beach/Willowbrook,0.243204752604167
+prox_subway_pct,Residential units within 1/2 mile of a subway station,SI 03 - Tottenville/Great Kills,0.28378021833053

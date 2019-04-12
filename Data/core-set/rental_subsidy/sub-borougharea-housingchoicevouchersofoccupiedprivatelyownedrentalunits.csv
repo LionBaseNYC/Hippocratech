@@ -1,0 +1,56 @@
+short_name,long_name,Sub-Borough Area,2009,2010,2011,2012,2013,2014,2015,2016
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Jamaica,0.0580873,0.0600366,0.0578292,0.0507008,0.0488967,0.0490609,0.0504990845195204,0.0461276262852034
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Queens Village,0.0318941,0.0358908,0.033785,0.0322996,0.0297404,0.029915,0.0275274455185974,0.029726222112354
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Rockaways,0.1428068,0.1781912,0.1065764,0.1051661,0.107948,0.1434453,0.159172795024925,0.135382095599328
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",North Shore,0.0879647,0.081551,0.0729009,0.0735445,0.0724565,0.0787078,0.108050486099267,0.114223852238081
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Mid-Island,0.0191748,0.0189123,0.0184018,0.0155995,0.0123091,0.0130689,0.0115510352342899,0.0165478149570305
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",South Shore,0.0272551,0.0284879,0.026002,0.0242627,0.0270887,0.0261766,0.0263738371535437,0.0267619047619048
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Mott Haven/Hunts Point,0.1765081,0.1584903,0.1458842,0.159655,0.1474494,0.1511459,0.158950573371653,0.15294475306083
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Morrisania/Belmont,0.2210709,0.22021,0.2050373,0.1899195,0.1914679,0.190721,0.193595983175141,0.192996308230725
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Highbridge/South Concourse,0.1495658,0.1530623,0.1385651,0.1313591,0.1360103,0.1387918,0.127385147264145,0.125587804291245
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",University Heights/Fordham,0.2012477,0.1923732,0.1833984,0.1699937,0.1965468,0.2016067,0.189080982711556,0.189704873026767
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Kingsbridge Heights/Mosholu,0.1917013,0.1985363,0.1732338,0.1570646,0.1392659,0.1453054,0.14999414999415,0.146390982707521
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Riverdale/Kingsbridge,0.0779812,0.0796551,0.0813471,0.0790867,0.077426,0.084751,0.0842010585671291,0.088241540421917
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Soundview/Parkchester,0.152112,0.1539503,0.1510451,0.1371519,0.1326857,0.1342258,0.130241468202351,0.128859282356554
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Throgs Neck/Co-op City,0.036001,0.0369987,0.03979,0.0330185,0.0290577,0.0305724,0.034037016829647,0.0422032890826233
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Pelham Parkway,0.1107726,0.1020702,0.0977407,0.0976226,0.0937634,0.0977328,0.0948337376908805,0.0894160583941606
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Williamsbridge/Baychester,0.1215223,0.1169089,0.1115644,0.133665,0.1370582,0.1435341,0.138834163866033,0.130738196488933
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Williamsburg/Greenpoint,0.0903303,0.0859164,0.0802067,0.0780078,0.0783882,0.0794385,0.080178497301785,0.0742896399061122
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Brooklyn Heights/Fort Greene,0.0209718,0.0208656,0.0247357,0.0215331,0.0210931,0.0209357,0.0200762839655835,0.0200918646264829
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Bedford Stuyvesant,0.1202064,0.1262577,0.1093439,0.110117,0.098907,0.0959448,0.0926506868090031,0.091137807409271
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Bushwick,0.078344,0.0745125,0.0702292,0.0682385,0.0594439,0.0557758,0.0552508871227895,0.0478898053976135
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",East New York/Starrett City,0.1541467,0.154126,0.1574403,0.1420154,0.1315754,0.1327183,0.143380413760769,0.144949184313036
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Park Slope/Carroll Gardens,0.0098176,0.0115628,0.0150484,0.0162864,0.0104332,0.0105037,0.0132785437750458,0.0152169829043772
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Sunset Park,0.0367229,0.0332395,0.03503,0.03357,0.0319075,0.0311207,0.030091348737238,0.0286827932994138
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",North Crown Heights/Prospect Heights,0.0705755,0.068,0.0649815,0.063467,0.0622883,0.0654027,0.0561380515508956,0.0534859671484572
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",South Crown Heights,0.035973,0.0340793,0.0378233,0.0443253,0.0384363,0.0407476,0.0363905325443787,0.0372579951240499
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Bay Ridge,0.0160002,0.0170479,0.01734,0.0157728,0.0146131,0.0143946,0.0152779742537841,0.0159733260962277
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Bensonhurst,0.0741151,0.07322,0.0599153,0.0592269,0.0571179,0.0546187,0.0522714634559126,0.0485122285822414
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Borough Park,0.1181597,0.121216,0.1195902,0.116223,0.1164998,0.1164998,0.113999147792455,0.123595907562424
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Coney Island,0.1620607,0.1411251,0.1565712,0.1477268,0.1476256,0.1475083,0.157538154328912,0.162408557879646
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Flatbush,0.0837449,0.0776708,0.0737834,0.0702394,0.0599353,0.062862,0.0660180681028492,0.063841846335215
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Sheepshead Bay/Gravesend,0.1406878,0.1325585,0.0949634,0.0912883,0.0856047,0.0731092,0.0697222326068264,0.0605874526660526
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Brownsville/Ocean Hill,0.1378076,0.1230455,0.1277626,0.1176168,0.1192051,0.1226949,0.111050718483541,0.127353266888151
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",East Flatbush,0.0551186,0.0539309,0.0484316,0.0526617,0.0440126,0.044715,0.042952979388641,0.0471850180240907
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Flatlands/Canarsie,0.0478551,0.0435655,0.0403611,0.0415545,0.0399105,0.0375952,0.0361080485115766,0.0432504481316358
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Greenwich Village/Financial District,0.0107766,0.010266,0.0094643,0.0089866,0.0083322,0.0077225,0.00847110260964613,0.00773606370875995
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Lower East Side/Chinatown,0.0331045,0.0327349,0.0303725,0.0301375,0.0264024,0.0263627,0.0262022375383174,0.0248328023994486
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Chelsea/Clinton/Midtown,0.0248942,0.0219831,0.0211737,0.0241352,0.0213444,0.0208211,0.0197174987117699,0.0205818455054803
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Stuyvesant Town/Turtle Bay,0.0174128,0.0165029,0.0159712,0.0166287,0.016336,0.0151062,0.0171168598008813,0.016797466611593
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Upper West Side,0.0225462,0.0211302,0.020458,0.0226617,0.0225111,0.0222308,0.0205444437344239,0.0208553016988869
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Upper East Side,0.0161105,0.0171624,0.0134709,0.0133994,0.0135492,0.0129162,0.0134158179157672,0.0135091669347057
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Morningside Heights/Hamilton Heights,0.0724319,0.0765276,0.0774799,0.0818117,0.0770299,0.0752143,0.0766482983966992,0.0788081395348837
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Central Harlem,0.0731028,0.0755109,0.0668289,0.0656039,0.0674956,0.0668715,0.0733256351039261,0.0660311229496705
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",East Harlem,0.1056381,0.1030289,0.1003663,0.1162873,0.0940914,0.0965089,0.10763971160681,0.0949814853839901
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Washington Heights/Inwood,0.0899534,0.0899077,0.0833146,0.0868158,0.077933,0.0771867,0.0720800663340267,0.0750153846153846
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Astoria,0.007771,0.0076316,0.0069948,0.0066975,0.006201,0.0058765,0.00596814431011322,0.00560923602973664
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Sunnyside/Woodside,0.0095753,0.0089442,0.0087821,0.0087268,0.0077101,0.0073585,0.00731058355506187,0.00727148632330551
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Jackson Heights,0.0169472,0.0149628,0.0154456,0.0144851,0.0144586,0.0136639,0.0139915450702305,0.0156285172203106
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Elmhurst/Corona,0.0215137,0.021083,0.0181838,0.0175841,0.0161451,0.0170579,0.0185311838462791,0.0189849298458341
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Middle Village/Ridgewood,0.0271694,0.0264979,0.0265334,0.026824,0.0277347,0.0262436,0.02277633253999,0.0218136135221562
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Rego Park/Forest Hills,0.0174375,0.0168682,0.0167264,0.0164443,0.0162507,0.0159956,0.0139913592555666,0.0155405905424406
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Flushing/Whitestone,0.0093362,0.0086102,0.0085544,0.0087818,0.0082769,0.0078684,0.00767392400622684,0.00765554574075332
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Hillcrest/Fresh Meadows,0.0126438,0.0123156,0.0120098,0.0116132,0.0099714,0.0097927,0.00977653631284916,0.00941666078860126
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Ozone Park/Woodhaven,0.0501785,0.0474901,0.0542611,0.0473634,0.0458148,0.045577,0.042747665043506,0.0423926858267394
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",South Ozone Park/Howard Beach,0.0371629,0.0376644,0.0354352,0.0429763,0.0350966,0.0368982,0.0327857142857143,0.04068669527897
+voucher_pct,"Housing choice vouchers (% of occupied, privately owned rental units)",Bayside/Little Neck,0.0019042,0.0017817,0.0014663,0.001583,0.0015854,0.0018232,0.00177784098990186,0.00148367952522255
